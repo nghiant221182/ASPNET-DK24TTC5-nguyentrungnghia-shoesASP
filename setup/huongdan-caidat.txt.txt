@@ -1,0 +1,5 @@
+1. Cài Visual Studio 2022
+2. Cài SQL Server
+3. Import file database.sql
+4. Mở project trong thư mục src/shoes-asp
+5. Run project
