@@ -5,8 +5,8 @@
 - Họ tên: Nguyễn Trung Nghĩa
 - MSSV: 170124532
 - Lớp: DK24TTC5
-- Email:
-- Số điện thoại:
+- Email: Nguyentrungnghiaqtmk43@gmail.com
+- Số điện thoại: 0907165582
 - Đề tài: Xây dựng website bán giày
 
 ---
